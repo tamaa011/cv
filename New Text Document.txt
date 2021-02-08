@@ -1,0 +1,13 @@
+
+git init
+git remote add origin https://github.com/tamaa011/newsbs.github.io.git
+git add .
+git commit -m "adf"
+git push origin master
+
+git pull --rebase origin master 
+git checkout -b newbranch/Adding-About-Us-Page adef branch
+git checkout master haro7 ll master
+git checkout esm l branch haro7 ll branch 
+git merge newbranch/Adding-About-Us-Page
+ git log --oneline
